@@ -8,3 +8,5 @@ const destinationSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Destination', destinationSchema);
+
+//demo comment
